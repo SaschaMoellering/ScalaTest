@@ -1,0 +1,5 @@
+{
+  // Java verticle
+    "main": "com.sm.scala.StarterVerticle"
+}
+}
