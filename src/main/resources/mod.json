@@ -1,5 +1,5 @@
 {
   // Java verticle
-    "main": "com.sm.scala.StarterVerticle"
-}
+    "main": "com.sm.scala.StarterVerticle",
+    "includes":"io.vertx~lang-scala~1.0.0"
 }

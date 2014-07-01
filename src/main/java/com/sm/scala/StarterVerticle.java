@@ -10,7 +10,7 @@ public class StarterVerticle extends Verticle {
 	@Override
 	public void start() {
 		container.deployVerticle(HelloJava.class.getName());
-		container.deployVerticle("HelloScala.scala");
+		container.deployVerticle("scala:com.sm.scala.HelloScala");
 	}
 
 }
