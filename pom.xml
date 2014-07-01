@@ -106,6 +106,7 @@
             <groupId>io.vertx</groupId>
             <artifactId>lang-scala</artifactId>
             <version>1.0.0</version>
+            <scope>provided</scope>
         </dependency>
 
         <!-- Add any other dependencies that you want packaged into your module (in the lib dir) here
